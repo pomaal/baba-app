@@ -1,0 +1,2 @@
+(this.webpackJsonpbaba=this.webpackJsonpbaba||[]).push([[0],{125:function(a,n,p){},126:function(a,n,p){"use strict";p.r(n);p(0),p(21);var s=p(16),e=p.n(s);p(24),p(28),p(19),p(9),p(123),p(5),p.p,p(125);e.a.send("VKWebAppInit",{});e.a.send("VKWebAppGetAds",{}),alert()}},[[126,1,2]]]);
+//# sourceMappingURL=main.dfcb6957.chunk.js.map
