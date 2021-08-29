@@ -1,2 +1,0 @@
-(this.webpackJsonpbaba=this.webpackJsonpbaba||[]).push([[0],{125:function(e,t,n){},126:function(e,t,n){"use strict";n.r(t);n(0),n(21);var s=n(16),p=n.n(s),o=(n(24),n(28),n(19),n(9),n(123),n(5),n.p,n(125),void 0);p.a.send("VKWebAppInit",{}),p.a.send("VKWebAppGetAds").then((function(e){o.setState({VKWebAppGetAdsResult:VKWebAppGetAdsResult})})),(void 0).state.promoBannerProps&&(PromoBanner,(void 0).state.promoBannerProps)}},[[126,1,2]]]);
-//# sourceMappingURL=main.37e36687.chunk.js.map
