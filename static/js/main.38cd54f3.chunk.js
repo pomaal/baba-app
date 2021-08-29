@@ -1,0 +1,2 @@
+(this.webpackJsonpbaba=this.webpackJsonpbaba||[]).push([[0],{125:function(n,o,e){},126:function(n,o,e){"use strict";e.r(o);e(0),e(21);var a=e(16),t=e.n(a),p=(e(24),e(28),e(19),e(9),e(123),e(5),e.p,e(125),void 0);t.a.send("VKWebAppInit",{});View,Panel,FixedLayout,PromoBanner,t.a.send("VKWebAppGetAds").then((function(n){p.setState({promoBannerProps:n})})),(void 0).state.promoBannerProps&&(PromoBanner,(void 0).state.promoBannerProps)}},[[126,1,2]]]);
+//# sourceMappingURL=main.38cd54f3.chunk.js.map
